@@ -1,0 +1,2 @@
+# Wikipedia-Search-Engine
+Developed a search engine that searches through 3000+ wikipedia pages and return relvent documents based on user search query. Information retrieval is based on both tf-idf and Page rank scores, with user-driven scoring for PR. Hadoop is used to perform a pipeline of MapReduce jobs to calculate the tf-idf scores for the laxicon. The user interacts with a frontend where they can input their query, examine the returned documents, and explore related links.
